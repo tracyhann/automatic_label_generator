@@ -1,3 +1,3 @@
 - Prepare your texts in an Excel sheet. Number of rows and columns should match the label sheet, but do not worry about sizing or other layouts.
 - Upload the Excel sheet. Customize the code by entering the parameters of your label sheet, such as width, height, and spacing, etc.
-- - Hit run, tada! Print-ready labels.pdf(s) freshly baked. Print and tag your cryotubes like a piece of cake!
+- Hit run, tada! Print-ready labels.pdf(s) freshly baked. Print and tag your cryotubes like a piece of cake!
